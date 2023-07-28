@@ -32,14 +32,5 @@ This is a real-time chat application built using Socket.io, Node.js, Express.js,
 - Express.js: As the web application framework for Node.js.
 - MongoDB: For storing and retrieving chat messages.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or want to add new features, please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this description as needed to suit your specific application. It's important to provide clear instructions for installation and usage so that users and potential contributors can easily interact with your project. Additionally, adding a license section is a good practice to clarify the permissions and limitations for others who want to use or contribute to your project.
